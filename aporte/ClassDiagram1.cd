@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="aporte.Dispositivos" Collapsed="true">
+    <Position X="7.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAACAAAAQAAEAAEAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Dispositivos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="aporte.reparar" Collapsed="true">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQgAAAAAACAAAAAAAAAAAAAAAEACAAAAAAAAA=</HashCode>
+      <FileName>reparar.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="aporte.Sujeto" Collapsed="true">
+    <Position X="3.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAQAAAAAAAAAAQAAAAAAAAQ=</HashCode>
+      <FileName>Sujeto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Observador" Collapsed="true">
+    <Position X="7.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>observador.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
